@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/affordmade-task/static/css/main.22329d4a.css",
-    "main.js": "/affordmade-task/static/js/main.00698fef.js",
+    "main.js": "/affordmade-task/static/js/main.4b8f2ca3.js",
     "static/js/453.ac93868e.chunk.js": "/affordmade-task/static/js/453.ac93868e.chunk.js",
     "index.html": "/affordmade-task/index.html",
     "main.22329d4a.css.map": "/affordmade-task/static/css/main.22329d4a.css.map",
-    "main.00698fef.js.map": "/affordmade-task/static/js/main.00698fef.js.map",
+    "main.4b8f2ca3.js.map": "/affordmade-task/static/js/main.4b8f2ca3.js.map",
     "453.ac93868e.chunk.js.map": "/affordmade-task/static/js/453.ac93868e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22329d4a.css",
-    "static/js/main.00698fef.js"
+    "static/js/main.4b8f2ca3.js"
   ]
 }
